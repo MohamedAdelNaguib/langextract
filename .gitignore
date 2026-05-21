@@ -48,7 +48,6 @@ docs/_build/
 
 # IDE / Editor specific
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -173,3 +172,7 @@ benchmarks/benchmark_results
 benchmark_results/**/*.json
 benchmark_results/**/*.jsonl
 benchmark_results/**/*.html
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
